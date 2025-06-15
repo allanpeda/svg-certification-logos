@@ -4,9 +4,9 @@
 <svg
    version="1.1"
    id="svg2"
-   width="453.33334"
-   height="453.33334"
-   viewBox="0 0 453.33334 453.33334"
+   width="453.81564"
+   height="419.16995"
+   viewBox="0 0 453.81564 419.16995"
    sodipodi:docname="CISSP Logo.svg"
    inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -18,8 +18,8 @@
     <marker
        inkscape:stockid="DistanceStart"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="DistanceStart"
        style="overflow:visible"
        inkscape:isstock="true">
@@ -27,24 +27,24 @@
          id="g2300">
         <path
            id="path2306"
-           d="M 0,0 L 2,0"
+           d="M 0,0 H 2"
            style="fill:none;stroke:context-fill;stroke-width:1.15;stroke-linecap:square" />
         <path
            id="path2302"
-           d="M 0,0 L 13,4 L 9,0 13,-4 L 0,0 z "
+           d="M 0,0 13,4 9,0 13,-4 Z"
            style="fill:context-stroke;fill-rule:evenodd;stroke:none" />
         <path
            id="path2304"
-           d="M 0,-4 L 0,40"
+           d="M 0,-4 V 40"
            style="fill:none;stroke:context-stroke;stroke-width:1;stroke-linecap:square" />
       </g>
     </marker>
     <inkscape:perspective
        sodipodi:type="inkscape:persp3d"
-       inkscape:vp_x="0 : 226.66667 : 1"
+       inkscape:vp_x="0 : 192.50328 : 1"
        inkscape:vp_y="0 : 1000 : 0"
-       inkscape:vp_z="453.33334 : 226.66667 : 1"
-       inkscape:persp3d-origin="226.66667 : 151.11111 : 1"
+       inkscape:vp_z="453.33334 : 192.50328 : 1"
+       inkscape:persp3d-origin="226.66667 : 116.94772 : 1"
        id="perspective5765" />
     <linearGradient
        id="linearGradient5300"
@@ -117,19 +117,24 @@
      inkscape:pagecheckerboard="0"
      showgrid="false"
      inkscape:zoom="1.6830882"
-     inkscape:cx="236.47008"
-     inkscape:cy="219.53692"
-     inkscape:window-width="1852"
-     inkscape:window-height="896"
+     inkscape:cx="201.71254"
+     inkscape:cy="200.22718"
+     inkscape:window-width="1920"
+     inkscape:window-height="935"
      inkscape:window-x="0"
      inkscape:window-y="32"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="layer1" />
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer2"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <g
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Black Vector Lettering"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.59747255,-19.012669)">
     <g
        id="g847"
        transform="translate(-0.419116,-190.27465)">
@@ -180,7 +185,8 @@
      inkscape:groupmode="layer"
      id="layer10"
      inkscape:label="Green vector lr"
-     style="display:inline;opacity:1">
+     style="display:inline;opacity:1"
+     transform="translate(-0.59747255,-19.012669)">
     <path
        id="rect10755"
        style="opacity:0.657491;fill:none;stroke:#8896c1;stroke-width:32;stroke-linecap:butt;stroke-linejoin:round"
@@ -195,7 +201,8 @@
      inkscape:groupmode="layer"
      id="layer11"
      inkscape:label="Blu vector rectangle copy ur"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.59747255,-19.012669)">
     <path
        id="rect10755-5"
        style="display:inline;opacity:0.657491;fill:none;stroke:#8896c1;stroke-width:32;stroke-linecap:butt;stroke-linejoin:round"
@@ -217,7 +224,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Black Vector Disc"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.59747255,-19.012669)">
     <ellipse
        style="fill:#000000;fill-opacity:1"
        id="path1117"
@@ -230,7 +238,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="White Lettering Over Disc"
-     style="display:inline">
+     style="display:inline"
+     transform="translate(-0.59747255,-19.012669)">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:42.6667px;line-height:1.25;font-family:Arial;-inkscape-font-specification:Arial;font-variant-ligatures:none"
